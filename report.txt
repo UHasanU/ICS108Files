@@ -1,0 +1,4 @@
+Barret	Edan	70	45	59	F
+Bradhew	Reque	96	97	88	A
+
+Averages: Midterm1 83.00, Midterm2 71.00, Final 73.50
